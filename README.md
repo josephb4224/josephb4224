@@ -1,19 +1,22 @@
 # Hi there, I'm Joseph 👋
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=josephb4224.josephb4224)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## About Me
 
 I'm a passionate developer with a love for learning and building innovative solutions. I enjoy working with various technologies and constantly seek to improve my skills.
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 - 🔭 I’m currently working on [dotfiles](https://github.com/josephb4224/dotfiles)
 - 🌱 I’m currently learning Python Programming and reference [PEP8](https://pep8.com)
 - 🤔 I’m looking for help with [Github](https://github.com)
 - 📫 How to reach me @ [Proton Mail](mailto:josephb4224@proton.me)
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## Languages and Tools
 
-- ![josephb4224/python_icon.png]I'm currently learning Python Programming as well as the Android Operating System. 
+- ![josephb4224/josephb4224/python_icon.png]I'm currently learning Python Programming as well as the Android Operating System. 
 - I use `Termux` on Android, which I believe is the best Android app available at the moment for programming from Mobile.
 
 - ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -25,13 +28,19 @@ I'm a passionate developer with a love for learning and building innovative solu
 - ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## GitHub Stats
 
 ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephb4224&show_icons=true&theme=radical)
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josephb4224&layout=compact&theme=radical)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Connect with Me
 
@@ -39,6 +48,7 @@ I'm a passionate developer with a love for learning and building innovative solu
 [x][![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&color=1DA1F2)](https://twitter.com/your-twitter)
 [✓][![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail&color=D14836)](mailto:josephb4224@proton.me)
 
+<img src="http://text-image.ru/_nw/66/65859240.gif" width="100%" />	
 <!---
 josephb4224/josephb4224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
