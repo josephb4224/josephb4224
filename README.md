@@ -32,17 +32,16 @@ I'm a passionate developer with a love for learning and building innovative solu
 
 ## GitHub Stats
 
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephb4224&show=reviews&show_icons=true,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephb4224&show=reviews&show_icons=true,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=highcontrast)
 
-![Joseph Readme](https://github-readme-stats.vercel.app/api/pin/?username=josephb4224&repo=josephb4224)
+![Joseph Readme](https://github-readme-stats.vercel.app/api/pin/?username=josephb4224&repo=josephb4224&theme=radical&icons=true)
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/josephb4224/bbfce31e0217a3689c8d961a356cb10d/)
-
+![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=1d1bd4608a5443ad1b739bf6f39e2e1d&theme=radical)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephb4224&layout=donut)](https://github.com/josephb4224/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephb4224&layout=donut&theme=dark)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
