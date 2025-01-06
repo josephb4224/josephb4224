@@ -20,7 +20,7 @@ I'm a passionate developer with a love for learning and building innovative solu
 
 ## Languages and Tools
 
-- ![josephb4224/josephb4224/python_icon.png]I'm currently learning Python Programming as well as the Android Operating System. 
+- ![icons/python_icon.png]I'm currently learning Python Programming as well as the Android Operating System. 
 - I use `Termux` on Android, which I believe is the best Android app available at the moment for programming from Mobile.
 
 - ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
