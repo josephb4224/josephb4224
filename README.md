@@ -4,23 +4,28 @@
 ## Hi, I'm Joseph Baker
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
 ## About Me
 
-I'm a passionate developer with a love for learning and building innovative solutions. I enjoy working with various technologies and constantly seek to improve my skills.
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+I'm new to the world of Programming!\
+Like most, I began learning Python <img src="/icons/python_icon.png" width=04% />  as well as Bash (& Zsh) on Linux.\
+I do alot of studying & practicing from my Android phone (Termux is King!), so I've started learning more about Android and its Operating System, as well as how to make applications.\
+Only slightly dipped into the Hell they call C++ :fire: as well as; HTML, CSS, & JavaScript...
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)
 
 - 🔭 I’m currently working on [dotfiles](https://github.com/josephb4224/dotfiles)
-- 🌱 I’m currently learning Python Programming and reference [PEP8](https://pep8.com)
+- 🐍 I’m currently learning Python Programming. [PEP8](https://pep8.com)
 - 🤔 I’m looking for help with [Github](https://github.com)
 - 📫 How to reach me @ [Proton Mail](mailto:josephb4224@proton.me)
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## Languages and Tools
 
-- ![icons/python_icon.png]I'm currently learning Python Programming as well as the Android Operating System. 
+- [](icons/python_icon.png)I'm currently learning Python Programming as well as the Android Operating System. 
 - I use `Termux` on Android, which I believe is the best Android app available at the moment for programming from Mobile.
 
 - ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -42,20 +47,21 @@ I'm a passionate developer with a love for learning and building innovative solu
 
 ![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=1d1bd4608a5443ad1b739bf6f39e2e1d&theme=radical)
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephb4224&layout=donut&theme=dark)
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)
 
 ## Connect with Me
+<img src="http://text-image.ru/_nw/66/65859240.gif" width="100%" />	
 
 [x][![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&color=0077B5)](https://www.linkedin.com/in/your-linkedin)
 [x][![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&color=1DA1F2)](https://twitter.com/your-twitter)
 [✓][![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail&color=D14836)](mailto:josephb4224@proton.me)
 
-<img src="http://text-image.ru/_nw/66/65859240.gif" width="100%" />	
+
 <!---
 josephb4224/josephb4224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
