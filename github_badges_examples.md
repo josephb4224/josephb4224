@@ -4,6 +4,12 @@
 
 While I have a full-stack background, my heart leans towards the frontend. Here’s what I’m most comfortable with:
 
+<picture><img src="/icons/middle_finger_icon.png" width=20% ></picture>
+
+<!--- Cool "ABOUT ME Graphic --->
+<picture><img src="https://github.com/josephb4224/josephb4224/blob/main/icons/middle_finger_icon.png.gif?raw=true" width=50% ></picture> Hi, I'm Joseph Baker
+
+## Badges
 <h3 align="left"> Frontend:</h3>
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
