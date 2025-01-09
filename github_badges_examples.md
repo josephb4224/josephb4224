@@ -4,11 +4,7 @@
 
 While I have a full-stack background, my heart leans towards the frontend. Here’s what I’m most comfortable with:
 
-<picture><img src="/icons/middle_finger_icon.png" width=20% ></picture>
-
-<!--- Cool "ABOUT ME Graphic --->
-<picture><img src="https://github.com/josephb4224/josephb4224/blob/main/icons/middle_finger_icon.png.gif?raw=true" width=50% ></picture> Hi, I'm Joseph Baker
-
+<picture><img src="/icons/middle_finger_icon.png" width=5% ></picture>
 ## Badges
 <h3 align="left"> Frontend:</h3>
 <div align="center">
@@ -51,7 +47,9 @@ While I have a full-stack background, my heart leans towards the frontend. Here�
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanieni6&show_icons=true&locale=en&layout=compact" alt="sanieni6" /></p>
 
-
+[![2bleO's GitHub stats](https://github-readme-stats.vercel.app/api?username=2bleo&show_icons=true&theme=dark)](https://github.com/2bleo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2bleo&show_icons=true&theme=dark)](https://github.com/2bleo/github-readme-stats)
+  
 
 ## Dark Background on Github Badges:
 
