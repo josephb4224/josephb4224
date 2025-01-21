@@ -5,6 +5,8 @@
 ## Hi, I'm Joseph Baker
 
 [![Harman's GitHub README](https://api.harmansandhu.tech/?username=josephb4224)](https://github.com/Harman-Sandhu/github-readme-generator)
+[![Harman's GitHub README](https://api.harmansandhu.tech/?username=josephb4224&bg=white&fill=black)](https://github.com/Harman-Sandhu/github-readme-generator)
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
