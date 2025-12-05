@@ -43,6 +43,7 @@ Only slightly dipped into the Hell they call C++ :fire: as well as; HTML, CSS, &
 ## GitHub Stats
 
 [![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephb4224)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/josephb4224/github-readme-stats)
 
 <picture><img src = "https://github.com/josephb4224/josephb4224/blob/main/icons/middle_finger_icon.png?raw=true" width = 200px></picture> 
 
