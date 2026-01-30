@@ -1,8 +1,13 @@
 <!--- Cool "ABOUT ME Graphic --->
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
 
-## Hi, I'm Joseph Baker
+<!---  "PROMPT" ICON
+<p align="center">
+  <img src="https://github.com/terkelg/prompts/raw/master/prompts.png" alt="Prompts" width="400" /></p>
+---->
 
+### Hi, I'm Joseph Baker
+  
 <!---[![Harman's GitHub README](https://api.harmansandhu.tech/?username=josephb4224)](https://github.com/Harman-Sandhu/github-readme-generator)
 ---->
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
@@ -41,8 +46,6 @@ Only slightly dipped into the Hell they call C++ :fire: as well as; HTML, CSS, &
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## GitHub Stats
-
-<picture><img src = "https://github.com/josephb4224/josephb4224/blob/main/icons/middle_finger_icon.png?raw=true" width = 200px></picture> 
 
 ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephb4224&show=reviews&show_icons=true,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=highcontrast)
 
