@@ -1,38 +1,33 @@
-<!--- Cool "ABOUT ME Graphic --->
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
+<!-- Cool "ABOUT ME Graphic -->
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture> 
 
-<!---  "PROMPT" ICON
+<!--  Cool "PROMPT" ICON
 <p align="center">
   <img src="https://github.com/terkelg/prompts/raw/master/prompts.png" alt="Prompts" width="400" /></p>
----->
+-->
 
-### Hi, I'm Joseph Baker
+<!-- MAIN HEADER -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=f90001+Code&size=35&duration=3200&pause=2000&color=f90001&center=true&vCenter=true&width=1000&lines=Hi+There+👋,+I'm+Joseph;Welcome+To+My+Profile!;" alt="Typing SVG" style="color:f90001; vertical-align: bottom;">
+</div>
   
-<!---[![Harman's GitHub README](https://api.harmansandhu.tech/?username=josephb4224)](https://github.com/Harman-Sandhu/github-readme-generator)
+<!---
+[![Harman's GitHub README](https://api.harmansandhu.tech/?username=josephb4224)](https://github.com/Harman-Sandhu/github-readme-generator)
 ---->
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
 ## About Me
 
-I'm new to the world of Programming!\
-Like most, I began learning Python, as well as Bash (& Zsh) on Linux.\
-I do alot of studying & practicing from my Android phone (Termux is King!), so I've started learning more about Android and its Operating System, as well as how to make applications.\
-Only slightly dipped into the Hell they call C++ :fire: as well as; HTML, CSS, & JavaScript...
-
+- I'm new to the world of **Programming**! <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="20" height="20" />
+- I've been learning **Python**, **Bash**, **Java**, **JavaScript**, and **PowerShell**.
+- Only slightly dipped into the hell they call **C++** :fire:
+- Additionally, been learning more about the **Android's operating system** and it's **applications** (**Termux** is 💯).
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)
 
 - 🔭 I’m currently working on [dotfiles](https://github.com/josephb4224/dotfiles)
-- 🐍 I’m currently learning Python Programming. [PEP8](https://pep8.com)
-- 🤔 I’m looking for help with [Github](https://github.com)
-- 📫 How to reach me @ [Proton Mail](mailto:josephb4224@proton.me)
+- 🐍 I’m currently learning Python Programming. [PEP8](https://pep8.com) 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-## Languages and Tools
-
-- [](icons/python_icon.png)I'm currently learning Python Programming as well as the Android Operating System. 
-- I use `Termux` on Android, which I believe is the best Android app available at the moment for programming from Mobile.
+<!-- Programming Section: -->
 ## Programming Languages
 
 <h3 align="left"> Frontend:</h3>
@@ -61,39 +56,32 @@ Only slightly dipped into the Hell they call C++ :fire: as well as; HTML, CSS, &
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 </div>
-<h3 align="left"> Other Languages and Tools:</h3>
+<h3 align="left"> Other Languages/Tools:</h3>
   <div align="center"><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </div>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
+  </div>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<!-- Development Environment -->
+<div class="skills-category">
+    <h3>Development Environments</h3>
+    <div class="skills-container">
+	<div align="center">
+      <a href="#"><img src="https://img.shields.io/badge/Jupyter-%23FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Colab"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio"></a>
+    </div>
+  </div>
 
-### GitHub Stats
-
-<!---
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephb4224&show=reviews&show_icons=true,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=highcontrast)
---->
-![Joseph Readme](https://github-readme-stats.vercel.app/api/pin/?username=josephb4224&repo=josephb4224&theme=radical&icons=true)
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
-
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephb4224&layout=donut&theme=dark)
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)
-
-## Connect with Me
+## Goodbye
 <img src="http://text-image.ru/_nw/66/65859240.gif" width="40%" />	
-
-[x][![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&color=0077B5)](https://www.linkedin.com/in/your-linkedin)
-[x][![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&color=1DA1F2)](https://twitter.com/your-twitter)
-[✓][![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail&color=D14836)](mailto:josephb4224@proton.me)
 
 <!----  "PREVIOUS BADGES"
 - ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -106,10 +94,8 @@ Only slightly dipped into the Hell they call C++ :fire: as well as; HTML, CSS, &
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
 ---->
 
-
 <!---
 josephb4224/josephb4224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)
