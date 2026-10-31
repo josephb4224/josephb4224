@@ -15,7 +15,22 @@
 [![Harman's GitHub README](https://api.harmansandhu.tech/?username=josephb4224)](https://github.com/Harman-Sandhu/github-readme-generator)
 ---->
 
-## About Me
+<!-- ## About Me -->
+
+<div style="max-width: 600px">
+    <!-- title -->
+    <div align="center">
+        <!-- GIF source: 
+        https://giphy.com/stickers/abu-dhabi-adnoc-energy-for-life-Qx5iidUF67vTlqa9s2 -->
+        <img width=100 src="https://media2.giphy.com/media/Qx5iidUF67vTlqa9s2/giphy.gif?cid=ecf05e4793mhk85ij3ednhd26vvbmtvlssjjohhgc0vhdddb&rid=giphy.gif&ct=s"/>
+        <img height=50 src="Data/about-me.png"/>
+    </div>
+    <br>
+    <!-- about me -->
+    <div align="center">
+        ..... <!--Add Text Here--> ....
+    </div>
+    
 
 - I'm new to the world of **Programming**! <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="20" height="20" />
 - I've been learning **Python**, **Bash**, **Java**, **JavaScript**, and **PowerShell**.
