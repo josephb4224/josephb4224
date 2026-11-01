@@ -1,7 +1,7 @@
 <!-- Cool "ABOUT ME Graphic -->
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture> 
+<p align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p> 
 
-<!--  Cool "PROMPT" ICON
+<!-- Cool "PROMPT" ICON
 <p align="center">
   <img src="https://github.com/terkelg/prompts/raw/master/prompts.png" alt="Prompts" width="400" /></p>
 -->
@@ -16,14 +16,13 @@
 ---->
 
 <!-- ## About Me -->
-
 <div style="max-width: 600px">
     <!-- title -->
     <div align="center">
         <!-- GIF source: 
         https://giphy.com/stickers/abu-dhabi-adnoc-energy-for-life-Qx5iidUF67vTlqa9s2 -->
         <img width=100 src="https://media2.giphy.com/media/Qx5iidUF67vTlqa9s2/giphy.gif?cid=ecf05e4793mhk85ij3ednhd26vvbmtvlssjjohhgc0vhdddb&rid=giphy.gif&ct=s"/>
-        <img height=50 src="Data/about-me.png"/>
+        <img height=50 src="icons/about-me.png"/>
     </div>
     <br>
     <!-- about me -->
